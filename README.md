@@ -3,3 +3,5 @@
 
 Assignment – 1 - Playing with Amazon’s EC2
 
+Deliverable #1 - In progress
+
